@@ -1,7 +1,21 @@
 "*":
   "atom-beautify":
+    css:
+      beautify_on_save: true
+    html:
+      beautify_on_save: true
+    markdown:
+      beautify_on_save: true
+      gfm: false
+    php:
+      beautify_on_save: true
+    sass:
+      beautify_on_save: true
+    scss:
+      beautify_on_save: true
     vue:
-      indent_inner_html: true
+      beautify_on_save: true
+      wrap_attributes: "force"
   "atom-package-sync": {}
   core:
     telemetryConsent: "no"
