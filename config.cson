@@ -1,0 +1,19 @@
+"*":
+  "atom-beautify":
+    vue:
+      indent_inner_html: true
+  "atom-package-sync": {}
+  core:
+    telemetryConsent: "no"
+    uriHandlerRegistration: "always"
+  editor:
+    fontSize: 19
+    showIndentGuide: true
+    showInvisibles: true
+    softTabs: false
+    tabLength: 4
+    tabType: "hard"
+  "exception-reporting":
+    userId: "03eccb63-153d-4590-92df-747e3030d5ab"
+  welcome:
+    showOnStartup: false
